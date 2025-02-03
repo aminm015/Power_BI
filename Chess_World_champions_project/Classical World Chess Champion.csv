@@ -1,0 +1,19 @@
+﻿#,Player,Dates,Wins,Years Won,Duration of Champoin,number of champion matches,nationality ,age
+1,Wilhelm Steinitz,1886-94,4,"1886, 1889, 1890, 1892",6,6, Austrian - American,
+2,Emanuel Lasker,1894-1921,6,"1894, 1896, 1907, 1908, 1910*, 1910",27,7,Geramny,25
+3,Jose Raul Capablanca,1921-27,1,1921,6,2,Cuba,32
+4,Alexander Alekhine,"1927-35, 1937-46",4,"1927, 1929, 1934, 1937",17,5,France,34
+5,Max Euwe,1935-37,1,1935,2,2,Germany,44
+6,Mikhail Botvinnik,"1948-57, 1958-60, 1961-63",5,"1948t, 1951*, 1954*, 1958, 1961",13,8,Soviet Union,36
+7,Vasily Smyslov,1957-58,1,1957,1,3,Soviet Union,32
+8,Mikhail Tal,1960-61,1,1960,1,2,Soviet Union,23
+9,Tigran V. Petrosian,1963-69,2,"1963, 1966",6,3,Soviet Union,33
+10,Boris Spassky,1969-72,1,1969,3,3,Soviet Union,29
+11,Bobby Fischer,1972-75,1,1972,3,2,Amercian,29
+12,Anatoly Karpov,1975-85,3,"1975d, 1978, 1981, 1984#",10,8,Soviet Union,23
+13,Garry Kasparov,1985-2000,6,"1985, 1986, 1987*, 1990, 1993, 1995",15,8,Soviet Union,22
+14,Vladimir Kramnik,2000-07,3,"2000, 2004*, 2006**",7,5,Russia,25
+15,Viswanathan Anand,2007-13,4,"2007t, 2008, 2010, 2012**",6,7,India,37
+16,Magnus Carlsen,2013-2023,5,"2013, 2014, 2016**, 2018**, 2021",10,5,Norwegian,22
+17,Ding Liren,2023-24,1,2023**,1,2,China,30
+18,Gukesh Dommaraju,2024-present,1,2024,1,1,India,18
