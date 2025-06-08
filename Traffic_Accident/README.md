@@ -1,38 +1,51 @@
-# Traffic_Accident_Power_BI_Dash_Board
-Data Source for this Dahsboard doqnloaded form Kaggle.com and you can look ar it form :
-https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents/data
+# Traffic Accident Power BI Dashboard 🚦📊
 
-Dataset Description
-This dataset contains detailed information on traffic accidents across various regions and time periods. It includes various metrics such as accident date, weather conditions, lighting conditions, crash types, injuries, and vehicle involvement. The data spans multiple locations and accident types, offering a comprehensive view of traffic incidents and their causes.
+Welcome!  
+This project features a Power BI dashboard built to analyze and visualize traffic accident data from various regions and time periods.
 
+---
 
-📊 Columns:
-crash_date: The date the accident occurred.
-traffic_control_device: The type of traffic control device involved (e.g., traffic light, sign).
-weather_condition: The weather conditions at the time of the accident.
-lighting_condition: The lighting conditions at the time of the accident.
-first_crash_type: The initial type of the crash (e.g., head-on, rear-end).
-trafficway_type: The type of roadway involved in the accident (e.g., highway, local road).
-alignment: The alignment of the road where the accident occurred (e.g., straight, curved).
-roadway_surface_cond: The condition of the roadway surface (e.g., dry, wet, icy).
-road_defect: Any defects present on the road surface.
-crash_type: The overall type of the crash.
-intersection_related_i: Whether the accident was related to an intersection.
-damage: The extent of the damage caused by the accident.
-prim_contributory_cause: The primary cause contributing to the crash.
-num_units: The number of vehicles involved in the accident.
-most_severe_injury: The most severe injury sustained in the crash.
-injuries_total: The total number of injuries reported.
-injuries_fatal: The number of fatal injuries resulting from the accident.
-injuries_incapacitating: The number of incapacitating injuries.
-injuries_non_incapacitating: The number of non-incapacitating injuries.
-injuries_reported_not_evident: The number of injuries reported but not visibly evident.
-injuries_no_indication: The number of cases with no indication of injury.
-crash_hour: The hour the accident occurred.
-crash_day_of_week: The day of the week the accident occurred.
-crash_month: The month the accident occurred.
+## 🗂️ Data Source
 
- Use Cases:
-Accident Analysis: Analyze accident trends, types, and the severity of injuries across different locations, time periods, and conditions.
-Traffic Safety: Understand the factors contributing to accidents (e.g., weather, lighting, road conditions) to inform traffic safety measures.
-Predictive Modeling: Use the dataset to forecast accident hotspots, potential injuries, and the impact of various factors on crash severity.
+The data for this dashboard is from Kaggle:  
+[Traffic Accidents Dataset on Kaggle](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents/data)
+
+---
+
+## 📋 Dataset Description
+
+This dataset contains detailed information on traffic accidents, including:
+
+- **crash_date:** When the accident happened
+- **traffic_control_device:** Type of control (traffic light, sign, etc.)
+- **weather_condition:** Weather during the accident
+- **lighting_condition:** Lighting at the scene
+- **first_crash_type:** Initial impact type (head-on, rear-end, etc.)
+- **trafficway_type:** Roadway involved (highway, local road, etc.)
+- **alignment:** Road alignment (straight, curved, etc.)
+- **roadway_surface_cond:** Surface condition (dry, wet, icy, etc.)
+- **road_defect:** Any road defects present
+- **crash_type:** The overall type of crash
+- **intersection_related_i:** Was it intersection-related?
+- **damage:** Extent of damage
+- **prim_contributory_cause:** Main cause of the accident
+- **num_units:** Number of vehicles involved
+- **most_severe_injury:** Worst injury in the accident
+- **injuries_total:** Total injuries reported
+- **injuries_fatal:** Fatal injuries
+- **injuries_incapacitating:** Incapacitating injuries
+- **injuries_non_incapacitating:** Non-incapacitating injuries
+- **injuries_reported_not_evident:** Reported but not visible injuries
+- **injuries_no_indication:** No injury indication
+- **crash_hour:** Hour of the crash
+- **crash_day_of_week:** Day of the week
+- **crash_month:** Month of the crash
+
+---
+
+## 💡 Use Cases
+
+- **Accident Analysis:** Explore trends, types, and injury severity across time, location, and conditions.
+- **Traffic Safety:** Identify factors (weather, lighting, surface) that contribute most to accidents and inform safety measures.
+- **Predictive Modeling:** Forecast accident hotspots, injury likelihood, and the impact of various factors on crash outcomes.
+
