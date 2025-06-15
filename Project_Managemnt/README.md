@@ -1,6 +1,6 @@
 Project Management Dashboard - Power BI
 
-![Dashboard Preview]([https://github.com/aminm015/Excel_Dashboard-/blob/main/HR_Excel_DashBoard/Record%203.gif](https://github.com/aminm015/Power_BI/blob/main/Project_Managemnt/Record%207.gif))
+![Dashboard Preview](https://github.com/aminm015/Power_BI/blob/main/Project_Managemnt/Record%207.gif)
 
 
 Overview
