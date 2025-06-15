@@ -1,5 +1,7 @@
 Project Management Dashboard - Power BI
 
+![Dashboard Preview]([https://github.com/aminm015/Excel_Dashboard-/blob/main/HR_Excel_DashBoard/Record%203.gif](https://github.com/aminm015/Power_BI/blob/main/Project_Managemnt/Record%207.gif))
+
 
 Overview
 This Power BI dashboard provides a comprehensive and intuitive solution for monitoring and managing project portfolios. Designed with a clean and refreshing green theme, it aims to offer key insights into project performance, financial impact, and operational efficiency, enabling stakeholders to make data-driven decisions.
