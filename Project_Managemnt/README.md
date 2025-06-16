@@ -1,46 +1,40 @@
-Project Management Dashboard - Power BI
+# Project Management Dashboard - Power BI
 
 ![Dashboard Preview](https://github.com/aminm015/Power_BI/blob/main/Project_Managemnt/Record%207.gif)
 
+## Overview
 
-Overview
-This Power BI dashboard provides a comprehensive and intuitive solution for monitoring and managing project portfolios. Designed with a clean and refreshing green theme, it aims to offer key insights into project performance, financial impact, and operational efficiency, enabling stakeholders to make data-driven decisions.
+This Power BI dashboard offers a comprehensive and user-friendly platform for tracking and managing project portfolios. With its clean and vibrant green-themed design, the dashboard delivers essential insights into project performance, financial outcomes, and operational efficiency—empowering stakeholders to make informed, data-driven decisions.
 
-Features
-Financial Performance Tracking: Visualize critical financial metrics such as:
+## Key Features
 
-Income Generation
+- **Financial Performance Tracking**  
+  Effortlessly visualize critical financial indicators, including:
+  - Income Generation
+  - Process Improvement
+  - Cost Reduction
+  - Working Capital
 
-Process Improvement
+- **Project Completion Status**  
+  Stay on top of project progress with:
+  - Department-wise completion rates
+  - Phase-wise tracking (e.g., Explore, Design, etc.)
 
-Cost Reduction
+- **Project Allocation & Management**  
+  Gain clarity on resource distribution and project details, such as:
+  - Projects overseen by each manager (donut chart visualization)
+  - Project complexity breakdown (High, Medium, Low)
 
-Working Capital
+- **Cost and Benefit Analysis**  
+  Assess project financial health with:
+  - Monthly trends of project benefits vs. costs
 
-Project Completion Status: Monitor project progress with:
+- **Overall Project Summary**  
+  Instantly view key portfolio metrics:
+  - Total number of projects
+  - Number of ongoing projects
+  - Percentage of projects on hold
 
-Completion rates by Department
+## Green Theme Rationale
 
-Phase-wise completion tracking (e.g., Phase 1: Explore, Phase 2: Design, etc.)
-
-Project Allocation & Management: Understand resource distribution and project characteristics through:
-
-Projects managed by individual Managers (visualized with a donut chart)
-
-Distribution of projects by Complexity (High, Low, Medium)
-
-Cost and Benefit Analysis: Gain insights into the financial health of projects with:
-
-Monthly Project Benefit vs. Cost trends
-
-Overall Project Summary: Quick glance at key project statistics:
-
-Total Project Count
-
-Number of Projects Ongoing
-
-Percentage of Projects On Hold
-
-Green Theme Rationale
-The dashboard utilizes a predominant green color palette to symbolize growth, stability, and progress, which are core tenets of successful project management. This theme aims to create a calming yet informative visual experience.
-
+The dashboard’s dominant green palette represents growth, stability, and progress—fundamental principles of effective project management. This color scheme is chosen to foster a calm, focused, and insightful user experience.
