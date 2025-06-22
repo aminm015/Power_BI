@@ -1,4 +1,4 @@
-Certainly! Here’s a rewritten README for your Power BI Sales Forecast Dashboard project, including your requested points and the GIF at the top:
+
 
 ---
 
@@ -33,4 +33,3 @@ This dashboard provides an intuitive and interactive way to monitor sales data a
 
 ---
 
-Feel free to copy and use this README for your project! If you want to add more sections (like "Installation" or "How to Use"), let me know!
