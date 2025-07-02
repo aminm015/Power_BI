@@ -3,7 +3,7 @@
 This project predicts future global sea levels using historical data (1993–2021) from NASA and Prophet forecasting, visualized through an interactive Power BI dashboard.
 
 ---
-
+![Dashboard Preview](https://github.com/aminm015/Power_BI/blob/main/Forecast_Sea_Level/Record%207.gif))
 ## 📁 Dataset
 
 - Source: [NASA Climate Change](https://climate.nasa.gov/)
