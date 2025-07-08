@@ -118,4 +118,4 @@ We use the Telco Customer Churn dataset from IBM (grab it on Kaggle). Here’s a
 
 ---
 
-*Questions or feedback? Feel free to open an issue or reach out!*
+I write this read me by copilot 
