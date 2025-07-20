@@ -1,5 +1,8 @@
 # Traffic Accident Power BI Dashboard 🚦📊
 
+![Dashboard Preview](https://github.com/aminm015/Power_BI/blob/main/Traffic_Accident/Record%203.gif)
+
+
 Welcome!  
 This project features a Power BI dashboard built to analyze and visualize traffic accident data from various regions and time periods.
 
