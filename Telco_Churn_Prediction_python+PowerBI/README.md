@@ -1,5 +1,9 @@
 # Customer Churn Prediction Dashboard
 
+
+![Dashboard Preview](https://github.com/aminm015/Power_BI/blob/main/Telco_Churn_Prediction_python%2BPowerBI/Telco_Customer_Prediction.gif)
+
+
 ## What’s This All About?
 
 Ever wondered which customers might leave your business soon? This project is an end-to-end solution that helps you predict customer churn using machine learning, and then lets you explore those insights in a super-interactive Power BI dashboard. By digging into historical customer data, the goal is to spot patterns that hint at churn, so you can jump in and keep more customers around.
